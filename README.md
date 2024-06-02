@@ -5,7 +5,7 @@
 
 This project implements an object detection tracker and counter specifically designed for conveyor belt packages in a logistics environment. The system detects packages, tracks their movement, and accurately counts them as they exit the frame. By leveraging YOLOv8, custom datasets, and tracking libraries, this solution addresses the challenge of monitoring package flow in large logistics factories.
 
-! first_frame.png
+![Alt text](https://github.com/Yugps/Vision-Based-Package-Counter-/blob/main/first_frame.png)
 
 ## Features
 
