@@ -28,7 +28,7 @@ This project implements an object detection tracker and counter specifically des
 
 - **Package Counting and Line Creation**:
   - The system establishes virtual lines or boundaries to count packages as they cross these lines.
-  - By integrating the tracking results with the Supervisely library and OpenCV (cv2), the counter accurately tallies the number of packages passing through each section.
+  - By integrating the tracking results with the Roboflow's Supervision library and OpenCV (cv2), the counter accurately tallies the number of packages passing through each section.
 
 ## Use Case
 
